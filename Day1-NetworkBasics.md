@@ -1,43 +1,25 @@
-# 📡 Day 1 — Network Basics
+# Module 1: Introduction to Cyber Security
 
-## 🌐 Что я узнала:
-- Как устроен интернет (передача данных, IP, DNS, DHCP)
-- Что такое маршрутизаторы, хабы и коммутаторы
-- Модель OSI (7 уровней) и TCP/IP (4 уровня)
+## 🔑 Main topics:
+- What is cybersecurity?
+- Main directions: Offensive, Defensive
+- Examples of attacks and defenses
+- Roles and professions in information security
 
-## 🧠 Термины:
-- **IP-адрес** — числовой адрес устройства в сети (например, 192.168.1.1)
-- **DNS (Domain Name System)** — система, переводящая доменные имена в IP-адреса
-- **DHCP (Dynamic Host Configuration Protocol)** — автоматическое назначение IP-адресов
-- **Router** — направляет трафик между сетями
-- **Firewall** — фильтрует входящий и исходящий трафик
+## 📌 What I learned:
+- Hacker's goal = to gain access to information
+- Offensive security → attacks (Pentester, Red Team)
+- Defensive security → protection (SOC Analyst, Blue Team)
+- Examples: phishing, malware, firewall, SIEM
 
-## 🛠 Практика:
-- Пройден модуль "How the Internet Works"
-- Ответы на викторину: ✅
-- Посмотрела визуализацию сети (очень помогло понять как всё связано)
+## ❗Interesting fact:
+> Most attacks start with **human error (Social Engineering)**!
 
-## ✍ Личное:
-> Раньше всё казалось сложным, а теперь я начинаю представлять себе, как данные передаются через интернет. Это вдохновляет продолжать изучение.
+---
 
-# 📡 Day 1 — Network Basics
-
-## 🌐 What I learned:
-- How the Internet works (data transmission, IP, DNS, DHCP)
-- What are routers, hubs, and switches?
-- OSI model (7 levels) and TCP/IP (4 levels)
-
-## 🧠 Terms:
-- **IP address** — numeric address of the device on the network (for example, 192.168.1.1)
-- **DNS (Domain Name System)** — a system that translates domain names into IP addresses
-- **DHCP (Dynamic Host Configuration Protocol)** — automatic assignment of IP addresses
-- **Router** — routes traffic between networks
-- **Firewall** — filters incoming and outgoing traffic
-
-## 🛠 Practice:
-- Completed the module "How the Internet Works"
-- Answers to the quiz:
-- I looked at the visualization of the network (it really helped to understand how everything is connected)
-
-## ✍ Personal:
-> Everything used to seem complicated, but now I'm starting to imagine how data is transmitted over the Internet. It inspires you to continue studying.
+## 📎 Commands/Terms:
+| Term | Meaning |
+|--------|----------|
+| Threat | Threat |
+| Vulnerability | Vulnerability |
+| Risk | Risk |
