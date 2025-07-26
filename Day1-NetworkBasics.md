@@ -1,4 +1,4 @@
-# Module 1: Introduction to Cyber Security
+#Module 1: Introduction to Cyber Security
 
 ## 🔑 Main topics:
 - What is cybersecurity?
