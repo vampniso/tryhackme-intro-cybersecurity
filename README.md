@@ -1,23 +1,23 @@
-# tryhackme-intro-cybersecurity
-My notes and materials on the TryHackMe course: Introduction to Cybersecurity
-# TryHackMe: Introduction to Cybersecurity
+# TryHackMe: Introduction to Cyber Security 🧠🔐
 
-, A repository with notes and materials on the course [TryHackMe: Introduction to Cybersecurity](https://tryhackme.com/room/introtoinfosec ).
+This repository contains my notes, commands, and conclusions from the course [TryHackMe: Introduction to Cyber Security](https://tryhackme.com /).
 
-## 🔒 Topics covered in the course:
-- Basics of networks (IP, DNS, DHCP, OSI / TCP/IP)
-- Introduction to attacks and protection methods
-- Terms, tools, and examples
-- Practical tasks in the browser
+## 📚 Course structure:
 
-## 🗂 Structure
-- `Day1-NetworkBasics.md ` — basic knowledge about networks
-- `Day2-AttacksAndDefense.md ` — types of attacks and defenses
-- `Commands-CheatSheet.md ` — important commands and utilities
-- `Key-Learnings.md ` — the main conclusions of the course
-- `Certificate.png' — certificate (to be added)
+1. Module 1: Introduction to Cyber Security
+2. Module 2: Network Fundamentals
+3. Module 3: How the Internet Works
+4. Module 4: Linux Basics
+5. Module 5: Windows Basics
 
-## 🎯 My goal
-Enroll in a top university in the field of **cybersecurity**, show real knowledge and practical experience.
+# My notes on modules:
+- [Module 1](Module1_Intro_to_Cybersecurity.md )
+- [Module 2](Module2_Network_Fundamentals.md )
+- [Module 3](Module3_How_Internet_Works.md )
+- [Module 4](Module4_Linux_Basics.md)
+- [Module 5](Module5_Windows_Basics.md)
+
+## 📌 Goal:
+Upgrade your cybersecurity base, replenish your portfolio, and prepare for more challenging courses!
 
 ---
